@@ -5,6 +5,7 @@ angular.module('tinnr', [
   'tinnr.mealsServices',
   'tinnr.navbarDirectives',
   'tinnr.alertsDirectives',
+  'tinnr.searchDirectives',
   'tinnr.auth',
   'tinnr.landing',
   'tinnr.recipes',
