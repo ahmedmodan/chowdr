@@ -1,7 +1,7 @@
 var db = require('../recipeData.js');
 var request = require('request');
 var url = require('url');
-var apiInfo = require('../recipes/apiKeys.js');
+// var apiInfo = require('../recipes/apiKeys.js');
 
 module.exports = {
   getFormula: function (req, res, next) {
